@@ -88,5 +88,3 @@ There is a Class called `PrincipalToTeacher` which, if it is needed can turn the
 ## Conclusions
 
 During this laboratory work there were learned and implemented some Structural Design Patterns. All the mentioned patterns from list of objectives were learned, but because it is difficult to unite them to one concept, there were implemented only three of them.
-
-## [Back To Title](#tmps-laboratory-works)
